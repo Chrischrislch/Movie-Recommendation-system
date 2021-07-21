@@ -1,8 +1,8 @@
 # Movie-Recommendation-system
-#Open the file path
-pip install virtualenv
-pip install -r requirements.txt
-pip freeze > requirements.txt
-cd project_folder
-virtualenv venv
-pip install -r requirements.txt
+# Open the file path
+pip install virtualenv<br>
+pip install -r requirements.txt<br>
+pip freeze > requirements.txt<br>
+cd project_folder<br>
+virtualenv venv<br>
+pip install -r requirements.txt <br>
